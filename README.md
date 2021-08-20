@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm MD AL AMIN BHUIYAN</h1>
-<h3 align="center">Competitive Programmer</h3>
-(https://github.com/Alamin-Bhuiyan/alamin-bhuiyan/blob/main/132213717_812170642963717_2368111882812528722_n.jpg)
+![I am a Competitive Programmer](https://github.com/Alamin-Bhuiyan/alamin-bhuiyan/blob/main/132213717_812170642963717_2368111882812528722_n.jpg)
 
 - 🔭 I’m currently working on Competitive programming 
 - 🌱 I’m currently learning Java and Android App Development 
