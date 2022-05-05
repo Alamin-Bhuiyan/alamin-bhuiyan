@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Competitive programming 
-- 🌱 I’m currently learning Java and Android App Development 
+- 🌱 I’m currently learning Internet Programming which includes HTML, CSS, JavaScript, PHP, MySql 
 
 - 📝 I regularly write articles on [https://minujiderkolpona.blogspot.com/](https://minujiderkolpona.blogspot.com/)
 
