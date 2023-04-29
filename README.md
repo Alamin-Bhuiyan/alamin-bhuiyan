@@ -3,14 +3,14 @@
 
 
 
-- 🔭 I’m currently working on Competitive programming 
+- 🔭 I’m currently working on Competitive programming, Machine learning and Deep Learning 
 - 🌱 I’m currently learning Internet Programming which includes HTML, CSS, JavaScript, PHP, MySql 
 
-- 📝 I regularly write articles on [https://minujiderkolpona.blogspot.com/](https://minujiderkolpona.blogspot.com/)
+- 📝 I regularly try to write articles on [https://minujiderkolpona.blogspot.com/](https://minujiderkolpona.blogspot.com/)
 
 - 📫 How to reach me **u1804084@student.cuet.ac.bd**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dOx2kAvWAjq0ryAJK48LYLqkX7SjJdbg8yMTyzs2iEY/edit?usp=sharing](https://docs.google.com/document/d/1dOx2kAvWAjq0ryAJK48LYLqkX7SjJdbg8yMTyzs2iEY/edit?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1dOx2kAvWAjq0ryAJK48LYLqkX7SjJdbg8yMTyzs2iEY/edit?usp=sharing](https://drive.google.com/file/d/1J0KWcrlMYe3wCtIvDJA1iU1k0oIJibkS/view?usp=sharing))
 
 - ⚡ Fun fact **I have a good sense of humor**
 
