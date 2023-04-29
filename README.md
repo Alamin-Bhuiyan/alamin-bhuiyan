@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **u1804084@student.cuet.ac.bd**
 
-- 📄 Know about my experiences [Resume]([https://docs.google.com/document/d/1dOx2kAvWAjq0ryAJK48LYLqkX7SjJdbg8yMTyzs2iEY/edit?usp=sharing](https://drive.google.com/file/d/1J0KWcrlMYe3wCtIvDJA1iU1k0oIJibkS/view?usp=sharing))
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1J0KWcrlMYe3wCtIvDJA1iU1k0oIJibkS/view?usp=sharing)
 
 - ⚡ Fun fact **I have a good sense of humor**
 
