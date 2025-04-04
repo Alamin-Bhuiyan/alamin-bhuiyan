@@ -8,7 +8,7 @@
 
 - 📝 I regularly try to write articles on [https://minujiderkolpona.blogspot.com/](https://minujiderkolpona.blogspot.com/)
 
-- 📫 How to reach me **u1804084@student.cuet.ac.bd**
+- 📫 How to reach me **amialaminb@gmail.com**
 
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/15rqvMUQspr99ut7CpTCKitySYFMz3uSO/view?usp=sharing)
 
